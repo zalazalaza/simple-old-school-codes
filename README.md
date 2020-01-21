@@ -1,3 +1,2 @@
-# simple-old-school-encoding
-the physical 
+# simple-old-school-encoding 
 modified viginere cipher for fun
